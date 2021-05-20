@@ -14,7 +14,7 @@ I made new brance, called "1-st_copy" now.
 
 =
 changes from this
-=
+
 
 There is confirm request's file.
 I made a new branch, a request ti pull and confirm this one.
@@ -26,7 +26,7 @@ is needed to merge. Of course, there is not possibility to mere them "by roof".
 
 =
 changes to this
-=
+
 I reslove a conflict now.
 14:36.
 
