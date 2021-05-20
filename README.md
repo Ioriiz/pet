@@ -29,3 +29,8 @@ changes to this
 ---
 I reslove a conflict now.
 14:36.
+
+And now there is good main brance without conflicts!
+Of course, there is not a program - I use this file to demonstrate how it works!
+14:40.
+Work is done.
