@@ -11,3 +11,7 @@ There is 14:09, 20.05.2021 now.
 I made new brance, called "1-st_copy" now.
 2 brances (1 new),
 1 commit (1 new).
+
+There is confirm request's file.
+I made a new branch, a request ti pull and confirm this one.
+14:26, 20.05.2021.
