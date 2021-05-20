@@ -12,6 +12,20 @@ I made new brance, called "1-st_copy" now.
 2 brances (1 new),
 1 commit (1 new).
 
+---
+changes from this
+---
+
+There is confirm request's file.
+I made a new branch, a request ti pull and confirm this one.
+14:26, 20.05.2021.
+
 There is 14:28.
 I have 2 brances now, and I do this change to making a different files whitch
 is needed to merge. Of course, there is not possibility to mere them "by roof".
+
+---
+changes to this
+---
+I reslove a conflict now.
+14:36.
